@@ -14,7 +14,7 @@ olefile==0.44
 pandas==0.22.0
 pbr==3.1.1
 pep8==1.7.0
-protobuf==3.4.0
+protobuf==3.15.0
 py==1.4.33
 pycparser==2.18
 pyOpenSSL==17.5.0
